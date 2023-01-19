@@ -1,6 +1,6 @@
 # vue-editor-test
 
-> A Vue.js project
+> 图片编辑器，基于dom操作
 
 ## Build Setup
 
